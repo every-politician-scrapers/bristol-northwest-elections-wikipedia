@@ -1,0 +1,81 @@
+id,name,party,partyLabel,votes,election,electionLabel,ranking
+Q30174665,Darren Jones,Q9630,Labour Party (UK),27330,Q30173038,General election 2019,1
+,Mark Weston,Q9626,Conservative Party (UK),21638,Q30173038,General election 2019,2
+,Chris Coleman,Q9624,Liberal Democrats (UK),4940,Q30173038,General election 2019,3
+,Heather Mack,Q9669,Green Party of England and Wales,1977,Q30173038,General election 2019,4
+Q30174665,Darren Jones,Q9630,Labour Party (UK),27400,Q25052149,General election 2017,1
+Q749793,Charlotte Leslie,Q9626,Conservative Party (UK),22639,Q25052149,General election 2017,2
+,Celia Downie,Q9624,Liberal Democrats (UK),2814,Q25052149,General election 2017,3
+,Sharmila Bousa (withdrawn),Q9669,Green Party of England and Wales,1243,Q25052149,General election 2017,4
+Q749793,Charlotte Leslie,Q9626,Conservative Party (UK),22767,Q3586935,General election 2015,1
+Q30174665,Darren Jones,Q9630,Labour Party (UK),17823,Q3586935,General election 2015,2
+,Michael Frost,Q10647,UKIP,4889,Q3586935,General election 2015,3
+,Clare Campion-Smith,Q9624,Liberal Democrats (UK),3214,Q3586935,General election 2015,4
+,Justin Quinnell,Q9669,Green Party of England and Wales,2952,Q3586935,General election 2015,5
+,Anne Lemon,Q980923,Trade Unionist and Socialist Coalition,160,Q3586935,General election 2015,6
+Q749793,Charlotte Leslie,Q9626,Conservative Party (UK),19115,Q215622,General election 2010,1
+,Paul Harrod,Q9624,Liberal Democrats (UK),15841,Q215622,General election 2010,2
+,Sam Townend,Q9630,Labour Party (UK),13059,Q215622,General election 2010,3
+,Robert Upton,Q10647,United Kingdom Independence Party,1175,Q215622,General election 2010,4
+,Ray Carr,Q2479228,English Democrats,635,Q215622,General election 2010,5
+,Alex Dunn,Q9669,Green Party of England and Wales,511,Q215622,General election 2010,6
+Q5300773,Doug Naysmith,Q6467393,Labour Co-operative,22192,Q428598,General election 2005,1
+,Alastair Watson,Q9626,Conservative Party (UK),13230,Q428598,General election 2005,2
+,Bob Hoyle,Q9624,Liberal Democrats (UK),9545,Q428598,General election 2005,3
+,Christopher Lees,Q10647,United Kingdom Independence Party,1132,Q428598,General election 2005,4
+,Michael Blundell,Q2479228,English Democrats Party,828,Q428598,General election 2005,5
+,Graeme Jones,Q367894,Socialist Party (England and Wales),565,Q428598,General election 2005,6
+Q5300773,Doug Naysmith,Q6467393,Labour Co-operative,24236,Q590740,General election 2001,1
+,Charles Hansard,Q9626,Conservative Party (UK),13349,Q590740,General election 2001,2
+,Peter Tyzack,Q9624,Liberal Democrats (UK),7387,Q590740,General election 2001,3
+,Diane Carr,Q10647,United Kingdom Independence Party,1140,Q590740,General election 2001,4
+,Vince Horrigan,Q3491460,Socialist Labour Party (UK),371,Q590740,General election 2001,5
+Q5300773,Doug Naysmith,Q6467393,Labour Co-operative,27575,Q918503,General election 1997,1
+Q6834620,Michael Stern,Q9626,Conservative Party (UK),16193,Q918503,General election 1997,2
+,Ian Parry,Q9624,Liberal Democrats (UK),7263,Q918503,General election 1997,3
+,Charles Horton,,,1718,Q918503,General election 1997,4
+,John Quintanillia,Q278315,Referendum Party,1609,Q918503,General election 1997,5
+,Giles Shorter,Q3491460,Socialist Labour Party (UK),482,Q918503,General election 1997,6
+,Stephen Parnell,Q161269,British National Party,265,Q918503,General election 1997,7
+,Thomas Leighton,Q491782,Natural Law Party,140,Q918503,General election 1997,8
+Q6834620,Michael Stern,Q9626,Conservative Party (UK),25354,Q543609,General election 1992,1
+Q5300773,Doug Naysmith,Q6467393,Labour Co-operative,25309,Q543609,General election 1992,2
+,John D. Taylor,Q9624,Liberal Democrats (UK),8498,Q543609,General election 1992,3
+,Hilary S. Long,,,729,Q543609,General election 1992,4
+Q6834620,Michael Stern,Q9626,Conservative Party (UK),26953,Q918472,General election 1987,1
+,Terence Walker,Q9630,Labour Party (UK),20001,Q918472,General election 1987,2
+,John Kirkcaldy,Q40052,Social Democratic Party (UK),10885,Q918472,General election 1987,3
+Q6834620,Michael Stern,Q9626,Conservative Party (UK),24617,Q918466,General election 1983,1
+,Sarah R. Palmer,Q6467393,Labour Co-operative,18290,Q918466,General election 1983,2
+,Hilary S. Long,Q40052,Social Democratic Party (UK),13228,Q918466,General election 1983,3
+Q6829396,Michael Colvin,Q9626,Conservative Party (UK),25915,Q918450,General election 1979,1
+Q7365322,Ronald Thomas,Q9630,Labour Party (UK),21238,Q918450,General election 1979,2
+,G.A. Davis,Q622441,Liberal Party (UK),5857,Q918450,General election 1979,3
+,P.M. Kingston,Q158093,National Front (UK),264,Q918450,General election 1979,4
+,T.L. Keen,,,73,Q918450,General election 1979,5
+Q7365322,Ronald Thomas,Q9630,Labour Party (UK),22156,Q918508,General election October 1974,1
+Q6776167,Martin McLaren,Q9626,Conservative Party (UK),21523,Q918508,General election October 1974,2
+,E. David,Q622441,Liberal Party (UK),8914,Q918508,General election October 1974,3
+Q6776167,Martin McLaren,Q9626,Conservative Party (UK),21569,Q119524,General election February 1974,1
+Q7365322,Ronald Thomas,Q9630,Labour Party (UK),20919,Q119524,General election February 1974,2
+,E. David,Q622441,Liberal Party (UK),11312,Q119524,General election February 1974,3
+,T.E. Wetherall,Q327591,Independent (politician),440,Q119524,General election February 1974,4
+Q6776167,Martin McLaren,Q9626,Conservative Party (UK),24124,Q918442,General election 1970,1
+Q16091442,John Ellis,Q9630,Labour Party (UK),23075,Q918442,General election 1970,2
+,H.J. Stevens,Q622441,Liberal Party (UK),3299,Q918442,General election 1970,3
+,W.E. Williams,Q592068,Communist Party of Great Britain,227,Q918442,General election 1970,4
+Q16091442,John Ellis,Q9630,Labour Party (UK),24195,Q918430,General election 1966,1
+Q6776167,Martin McLaren,Q9626,Conservative Party (UK),23526,Q918430,General election 1966,2
+,B. Underwood,Q592068,Communist Party of Great Britain,595,Q918430,General election 1966,3
+Q6776167,Martin McLaren,Q9626,Conservative Party (UK),22129,Q220208,General election 1964,1
+Q5240866,David Watkins,Q9630,Labour Party (UK),21030,Q220208,General election 1964,2
+,T.G. Douglas,Q622441,Liberal Party (UK),5883,Q220208,General election 1964,3
+Q6776167,Martin McLaren,Q9626,Conservative Party (UK),24938,Q918420,General election 1959,1
+Q7788411,Christopher Boyd,Q9630,Labour Party (UK),23019,Q918420,General election 1959,2
+Q7788411,Christopher Boyd,Q9630,Labour Party (UK),22950,Q918412,General election 1955,1
+Q7527013,Gurney Braithwaite,Q9626,Conservative Party (UK),21295,Q918412,General election 1955,2
+Q7527013,Gurney Braithwaite,Q9626,Conservative Party (UK),28394,Q3722280,General election 1951,1
+Q5128639,Claud Morris,Q9630,Labour Party (UK),24553,Q3722280,General election 1951,2
+Q7527013,Gurney Braithwaite,Q9626,Conservative Party (UK),23884,Q748667,General election 1950,1
+Q5128639,Claud Morris,Q9630,Labour Party (UK),21394,Q748667,General election 1950,2
+,Florence Pugh,Q622441,Liberal Party (UK),4784,Q748667,General election 1950,3

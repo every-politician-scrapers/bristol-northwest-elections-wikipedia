@@ -1,0 +1,10 @@
+{
+  "wikipedia": "https://en.wikipedia.org/wiki/Bristol_North_West_(UK_Parliament_constituency)",
+  "wikidata": [{
+    "id": "Q3137955",
+    "start": "1950",
+    "end": "9999"
+  }],
+  "combofile": "combo.csv",
+  "new_person_description": "UK election candidate"
+}
